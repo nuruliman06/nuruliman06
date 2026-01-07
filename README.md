@@ -55,14 +55,14 @@
 - School Representative, **Malaysia Future Leaders School (MFLS) – Cohort 14 (2021)** (National Level)  
 
 ### Sports Achievements
+- 🥈 2nd Place, *Road Relay (Women) – Victernal Week 2025* (College Level)  
 - 🥇 1st Place, *4×100m Relay – SUKBA 2023* (School Level)  
 - 🥇 1st Place, *4×100m Relay – SUKBA 2022* (School Level)  
-- 🥈 2nd Place, *Road Relay (Women) – Victernal Week* (College Level)  
 - 19th Place, *Merentas Desa 2022* (School Level)  
 - 8th Place, *Merdeka Virtual Run 2021* (School Level)  
 
 ### Academic Awards
-- 🏅 **Dean’s List Award** – Kolej MARA Kuala Nerang (KMKN) (Semester 1 & Semester 2, CGPA 4.00)  
+- 🏅 **Dean’s List Award** – Kolej MARA Kuala Nerang (KMKN) (Semester 1 & Semester 2) 
 
 ---
 
