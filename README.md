@@ -74,24 +74,18 @@
 ## 🔧 Skills & Projects
 
 *Technical Skills:*  
-- Programming: C++  
-- Digital Logic, FSM, Flip-Flops (D, JK)  
-- Tools: Git, Visual Studio Code, Excel, Canva  
+- Programming: C++   
+- Tools:Visual Studio Code, Excel, Canva  
 - Soft Skills: Problem Solving, Leadership, Time Management  
 
-*Projects:* (placeholder – links to GitHub repos can be added)  
-- Utility Bill Calculator (C++)  
-- Simple Decision-Making Program (C++)  
-- D Flip-Flop Simulation  
-- Excel-based ITE Project  
-- FSM State Diagram Project  
+*Projects:*  
 
 ---
 
 ## 📬 Contact
 - *Email:* nurulimanzakry7@gmail.com  
 - *LinkedIn:* [linkedin.com/in/nuruliman  ](https://www.linkedin.com/in/nurul-iman-zakry-69693036b/)
-- *Portfolio / GitHub:* github.com/nuruliman06 
+- *Portfolio / GitHub:*[ github.com/nuruliman06](https://github.com/nuruliman06) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
