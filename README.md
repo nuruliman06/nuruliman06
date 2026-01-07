@@ -3,37 +3,37 @@
 
 ## 🎓 Education
 
-*Universiti Teknologi Malaysia (UTM)*  
-Bachelor of Computer Science (Computer Network & Security)  
+**Universiti Teknologi Malaysia (UTM)** 
+- Bachelor of Computer Science (Computer Network & Security)  
 
-*Kolej MARA Kuala Nerang (KMKN)*  
-Foundation in Engineering & Technology  
+**Kolej MARA Kuala Nerang (KMKN)**  
+- Foundation in Engineering & Technology  
 
-*SMK Datuk Haji Ahmad Badawi*  
+**SMK Datuk Haji Ahmad Badawi**
 
 ---
 
 ## 🏫 Positions & Leadership Experience
 
 ### University
-- Committee Member, Unit Tindakan Khas Kolej Kediaman (UTK) – *Kolej MARA Kuala Nerang (KMKN)*  
-- Member, PERSAKA (Computer Science Students Association) – *UTM*  
+- Committee Member, Unit Tindakan Khas Kolej Kediaman (UTK) – **KMKN** 
+- Member, PERSAKA (Computer Science Students Association) – **UTM**  
 - Member, CyberX – *UTM*
 
 ### College
-- Secretary, Volleyball Club – *Kolej MARA Kuala Nerang (KMKN)*
+- Secretary, Volleyball Club – **KMKN**
 
 ### School
-- Mentor, Additional Mathematics (SPM) – *SMK Datuk Haji Ahmad Badawi*  
-- Monitoring Bureau Member, Form 5 – *SMK Datuk Haji Ahmad Badawi*  
-- Prefect, Textbook Loan Scheme (SPBT) – *SMK Datuk Haji Ahmad Badawi*  
+- Mentor, Additional Mathematics (SPM) – **SMK Datuk Haji Ahmad Badawi**  
+- Monitoring Bureau Member, Form 5 – **SMK Datuk Haji Ahmad Badawi** 
+- Prefect, Textbook Loan Scheme (SPBT) – **SMK Datuk Haji Ahmad Badawi**  
 
 ---
 
 ## 🤝 Clubs & Organizations
-- Member, PERSAKA – *UTM*  
-- Member, CyberX – *UTM*  
-- Member, Unit Tindakan Khas Kolej Kediaman (UTK) – *KMKN*
+- Member, PERSAKA – **UTM**  
+- Member, CyberX – **UTM**  
+- Member, Unit Tindakan Khas Kolej Kediaman (UTK) – **KMKN**
 
 ---
 
@@ -48,27 +48,26 @@ Foundation in Engineering & Technology
 ## 🏆 Achievements & Awards
 
 ### Leadership & Co-curricular
-- School Representative, *Legoland School Challenge 2023* (School Level)  
-- School Representative, *Virtual Forensic Science Competition 2022* (National Level)  
-- 🥈 2nd Place, *STEM Explorace Competition 2022* (School Level)  
-- 🥈 2nd Place, *STEM Parachute Competition 2022* (School Level)  
-- School Representative, *Malaysia Future Leaders School (MFLS) – Cohort 14 (2021)* (National Level)  
-- Awarded *A+* for excellence in co-curricular report-based assessment – Volleyball Club (KMKN)  
+- School Representative, **Legoland School Challenge 2023** (School Level)  
+- School Representative, **Virtual Forensic Science Competition 2022** (National Level)  
+- 🥈 2nd Place, **STEM Explorace Competition 2022** (School Level)  
+- 🥈 2nd Place, **STEM Parachute Competition 2022** (School Level)  
+- School Representative, **Malaysia Future Leaders School (MFLS) – Cohort 14 (2021)** (National Level)  
 
 ### Sports Achievements
-- 🥉 2nd Runner-Up, Road Relay (Women) – Victernal Week (College Level)  
-- 🥇 1st Place, 4×100m Relay – SUKBA 2023 (School Level)  
-- 🥇 1st Place, 4×100m Relay – SUKBA 2022 (School Level)  
-- 19th Place, Merentas Desa 2022 (School Level)  
-- 8th Place, Merdeka Virtual Run 2021 (School Level)  
+- 🥇 1st Place, *4×100m Relay – SUKBA 2023* (School Level)  
+- 🥇 1st Place, *4×100m Relay – SUKBA 2022* (School Level)  
+- 🥈 2nd Place, *Road Relay (Women) – Victernal Week* (College Level)  
+- 19th Place, *Merentas Desa 2022* (School Level)  
+- 8th Place, *Merdeka Virtual Run 2021* (School Level)  
 
 ### Academic Awards
-- 🏅 *Dean’s List Award* – Kolej MARA Kuala Nerang (KMKN) (Semester 1 & Semester 2, recognized for outstanding academic performance, CGPA 4.00)  
+- 🏅 **Dean’s List Award** – Kolej MARA Kuala Nerang (KMKN) (Semester 1 & Semester 2, CGPA 4.00)  
 
 ---
 
 ## 📜 Certificates & Programs
-- *Malaysia Future Leaders School (MFLS) – Cohort 14 (2021)* (National Level Leadership Program)  
+- **Malaysia Future Leaders School (MFLS) – Cohort 14 (2021)** (National Level Leadership Program)  
 
 ---
 
@@ -90,8 +89,9 @@ Foundation in Engineering & Technology
 ---
 
 ## 📬 Contact
-- *Email:* nurul.iman@example.com  
-- *LinkedIn:* linkedin.com/in/nuruliman  
+- *Email:* nurulimanzakry7@gmail.com  
+- *LinkedIn:* [linkedin.com/in/nuruliman  ](https://www.linkedin.com/in/nurul-iman-zakry-69693036b/)
+- *Portfolio / GitHub:* github.com/nuruliman06 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
