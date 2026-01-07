@@ -16,24 +16,23 @@
 ## 🏫 Positions & Leadership Experience
 
 ### University
-- Committee Member, Unit Tindakan Khas Kolej Kediaman (UTK) – **KMKN** 
 - Member, PERSAKA (Computer Science Students Association) – **UTM**  
-- Member, CyberX – *UTM*
+- Member, CyberX – **UTM**
+- Committee Member, Unit Tindakan Khas Kolej Kediaman (UTK) – **KMKN** 
 
 ### College
 - Secretary, Volleyball Club – **KMKN**
 
 ### School
-- Mentor, Additional Mathematics (SPM) – **SMK Datuk Haji Ahmad Badawi**  
-- Monitoring Bureau Member, Form 5 – **SMK Datuk Haji Ahmad Badawi** 
-- Prefect, Textbook Loan Scheme (SPBT) – **SMK Datuk Haji Ahmad Badawi**  
+- Mentor, Additional Mathematics (SPM) 2023 – **SMK Datuk Haji Ahmad Badawi**  
+- Monitoring Bureau Member Form 5-Prefect Textbook Loan Scheme (SPBT) 2022-2023 – **SMK Datuk Haji Ahmad Badawi**  
 
 ---
 
 ## 🤝 Clubs & Organizations
 - Member, PERSAKA – **UTM**  
 - Member, CyberX – **UTM**  
-- Member, Unit Tindakan Khas Kolej Kediaman (UTK) – **KMKN**
+- Member, Unit Tindakan Khas Kolej Kediaman (UTK) 2024-2025 – **KMKN**
 
 ---
 
@@ -48,7 +47,7 @@
 ## 🏆 Achievements & Awards
 
 ### Leadership & Co-curricular
-- School Representative, **Legoland School Challenge 2023** (School Level)  
+- School Representative, **Legoland School Challenge 2023** (National Level)  
 - School Representative, **Virtual Forensic Science Competition 2022** (National Level)  
 - 🥈 2nd Place, **STEM Explorace Competition 2022** (School Level)  
 - 🥈 2nd Place, **STEM Parachute Competition 2022** (School Level)  
