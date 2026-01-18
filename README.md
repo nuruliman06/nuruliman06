@@ -65,12 +65,12 @@
 
 ## 🔧 Skills & Projects
 
-### Technical Skills:### 
+### Technical Skills:
 - Programming: C++    
 - Soft Skills: Problem Solving, Leadership, Time Management  
 
-### Projects:###  
-- CyberCare(CC)
+### Projects:  
+- [CyberCare(CC): A Smart Online Counselling Platform for Cyberbullying Victims](https://github.com/nuruliman06/SECP1513-TECHNOLOGY-AND-INFORMATION-SYSTEM/tree/main/DESIGN%20THINKING%20PROJECT)
 
 ---
 
