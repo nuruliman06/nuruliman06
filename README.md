@@ -30,7 +30,7 @@
 ---
 
 ## 💻 Relevant Courses
-- [SECP1513 Technology and Information System]()
+- [SECP1513 Technology and Information System](https://github.com/nuruliman06/SECP1513-TECHNOLOGY-AND-INFORMATION-SYSTEM)
 - SECJ1013 Programming Technique 1  
 - SECI1013 Discrete Structure  
 - SECR1013 Digital Logic  
