@@ -10,7 +10,7 @@
 - Foundation in Engineering & Technology  
 
 **SMK Datuk Haji Ahmad Badawi**
-
+- Pure Science
 ---
 
 ## 🏫 Positions & Leadership Experience
@@ -29,18 +29,11 @@
 
 ---
 
-## 🤝 Clubs & Organizations
-- Member, PERSAKA – **UTM**  
-- Member, CyberX – **UTM**  
-- Member, Unit Tindakan Khas Kolej Kediaman (UTK) 2024-2025 – **KMKN**
-
----
-
 ## 💻 Relevant Courses
-- Technology Information System  
-- Programming Technique 1  
-- Discrete Structure  
-- Digital Logic  
+- [SECP1513 Technology and Information System]()
+- SECJ1013 Programming Technique 1  
+- SECI1013 Discrete Structure  
+- SECR1013 Digital Logic  
 
 ---
 
@@ -72,12 +65,12 @@
 
 ## 🔧 Skills & Projects
 
-*Technical Skills:*  
-- Programming: C++   
-- Tools:Visual Studio Code, Excel, Canva  
+### Technical Skills:### 
+- Programming: C++    
 - Soft Skills: Problem Solving, Leadership, Time Management  
 
-*Projects:*  
+### Projects:###  
+- CyberCare(CC)
 
 ---
 
