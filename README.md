@@ -2,9 +2,9 @@
 <h3 align="center">First Year Student Bachelor of Computer Science (Computer Network & Security)</h3>
 
 ## About me 
-💻 Passionate future cybersecurity professional who loves solving security challenges, exploring tech innovations, and creating practical digital solutions.
-🌱 Fun fact: I enjoy turning challenges into learning opportunities and collaborating with like-minded people on exciting projects.
-🎯 Goal: Become a successful cybersecurity expert who makes a positive impact in the digital world.
+- 💻 Passionate future cybersecurity professional who loves solving security challenges, exploring tech innovations, and creating practical digital solutions.
+- 🌱 Fun fact: I enjoy turning challenges into learning opportunities and collaborating with like-minded people on exciting projects.
+- 🎯 Goal: Become a successful cybersecurity expert who makes a positive impact in the digital world.
 
 ## 🎓 Education
 
